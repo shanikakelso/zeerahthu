@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeemuihaf.evilrookgames.com/sitemap.xml
